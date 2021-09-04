@@ -1,6 +1,6 @@
 class Say:
 	def __init__(self):
-		res = self.kata
+		res = self.kata()
 		Result(res)
 	
 	def kata(self):
